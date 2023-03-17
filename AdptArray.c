@@ -1,6 +1,4 @@
 #include "AdptArray.h"
-#include "book.h"
-#include "Person.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
